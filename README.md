@@ -1,6 +1,6 @@
 ## Web-приложения
 - [Demonster](https://demonster.eloh1m.com/)
-- [FB2-reader](https://reader.eloh1m.com/)
+- [FB2-Reader](https://reader.eloh1m.com/)
 - [Pomodoro](https://pomodoro.eloh1m.com/)
 - [Зелёная Караганда](https://eloh1m.com/project/green-karaganda/)
 

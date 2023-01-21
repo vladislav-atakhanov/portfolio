@@ -9,7 +9,7 @@
 ## Боты
 - [Youtube & Genius](https://t.me/youtube_genius_bot)
 
-## Верстка
+## Вёрстка
 - [FlockApp](flockapp)
 - [Motovida](motovida)
 - [SpaceTravels](spacetravels)

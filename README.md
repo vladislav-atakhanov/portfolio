@@ -19,5 +19,5 @@
 ## Ссылки
 - [Резюме](https://eloh1m.com/cv/)
 - [Telegram](https://t.me/eloh1m)
-- [Notabug](https://notabug.org/eloh1m)
-- [GitHub](https://github.com/eloh1mZ)
+- [Notabug](https://notabug.org/vladislav-atakhanov)
+- [GitHub](https://github.com/vladislav-atakhanov)
